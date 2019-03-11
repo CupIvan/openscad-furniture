@@ -3,3 +3,4 @@ include <chair.scad>;
 include <monitor.scad>;
 include <wardrobe.scad>;
 include <piano.scad>;
+include <stool.scad>;
