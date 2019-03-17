@@ -11,5 +11,9 @@
 - стол
 - монитор
 - шкаф
+- пианино Roland HP302
+- табурет IKEA Frosta
+- набор ящиков для кухни
 
-![Пример мебели OpenSCAD](./_example.png)
+![Пример мебели OpenSCAD](./examples/example.png)
+![Пример кухни OpenSCAD](./examples/kitchen.png)
